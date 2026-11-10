@@ -48,6 +48,16 @@
     ".wrangler",
     ".sites-runtime",
     "outputs",
-    "work"
+    "work",
+    "worker",
+    "db",
+    "scripts",
+    "vite.config.ts",
+    "lib/connector-context.ts",
+    "lib/connector-contract.mts",
+    "lib/connector-errors.mts",
+    "lib/connector-preview.d.ts",
+    "lib/connectors.ts",
+    "components/connector-error.tsx"
   ]
 }
