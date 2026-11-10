@@ -1,0 +1,55 @@
+# Nikita Zakharenko (Никита Захаренко) — Golang Software Engineer
+
+> 4+ years building high-load backend services in Go. Currently Golang Software Engineer at Wildberries (Belgrade, Serbia · Remote), focusing on e-commerce & supply-chain systems, ClickHouse analytics, and PostgreSQL performance.
+
+- Website: https://www.zakharenkolink.com
+- CV (PDF): https://www.zakharenkolink.com/Nikita-Zakharenko-CV.pdf
+- LinkedIn: https://www.linkedin.com/in/zakharenkolink
+- Telegram: https://t.me/zakharenkoNikita
+- Location: Belgrade, Serbia (Remote)
+
+## Summary
+
+Go backend engineer owning the full delivery cycle: system architecture, REST/gRPC APIs, database optimization, observability, releases, and 24/7 production support. Previously built city-wide emergency alerting systems and founded a subscription VPN service.
+
+## Experience
+
+### Wildberries — Golang Software Engineer (2024 – Present)
+Design and delivery of high-load services for e-commerce and supply-chain operations. Full release cycle and production support across 7 projects.
+- ClickHouse analytics: 10B+ rows, ~1 TB dataset, API response <= 300 ms.
+- Optimized a 350 GB PostgreSQL table with recurring deadlocks.
+- Designed and built 2 high-load services from scratch, including complex business logic.
+- Built REST and gRPC APIs, RBAC, and WebSocket notifications for an employee support platform.
+- Rolled out Jaeger and Pyroscope; built Grafana dashboards and CSAT, RSA, and SLA metrics.
+- Led PostgreSQL-to-ClickHouse migrations and integrated a proprietary LLM into an employee support chat.
+- Stack: Go, PostgreSQL, ClickHouse, Kafka, gRPC.
+
+### NorkinVPN — Founder & Backend Engineer (2024 – 2025)
+Founded a subscription VPN service and grew it to ~200 paying customers across 3 servers handling ~4.5 TB of daily traffic.
+- Owned backend engineering, infrastructure, subscription payments, customer support, and operations.
+- Stack: VLESS, 3x-ui, Linux Infrastructure.
+
+### Safe Region — Backend Developer (2022 – 2024)
+Developed the core alerting stack for city-wide notification systems: synchronous alerts, SIP terminal grouping, and a modular VoIP integration layer.
+- Built core alerting services with Go and Node.js.
+- Configured test and production environments; introduced TDD, unit, and e2e tests.
+- Stack: Go, Node.js, PostgreSQL, MongoDB.
+
+## Technical Stack
+
+- Languages & Runtime: Go (Golang), SQL, TypeScript/Node.js
+- Databases & Messaging: PostgreSQL, ClickHouse, Kafka, Redis, MongoDB
+- APIs & Architecture: gRPC, REST, WebSockets, Microservices, High-Load Systems
+- DevOps & Observability: Docker, Kubernetes, GitLab CI, Grafana, Prometheus, Jaeger, Pyroscope
+
+## Education
+
+- Russian University of Transport (RUT MIIT) — BSc, Computer Science (2022–2026)
+-Russian University of Transport (RUT MIIT) — AI & Machine Learning, Professional Retraining (2024–2025)
+- School 21 (Sber) — Software Development, Go (2022–2024)
+
+## Languages
+
+- Russian: Native
+- German: B2
+- English: B1+
